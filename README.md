@@ -2,7 +2,7 @@
 <div align="center">
   <a href="https://github.com/FAKNE">
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=FAKNE&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true&bg_color=151515&text_color=9f9f9f&border_color=30363d&count_private=true&hide=contribs"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FAKNE&layout=compact&langs_count=7&theme=gruvbox&bg_color=151515&text_color=9f9f9f&border_color=30363d"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaballerini&layout=compact&langs_count=7&theme=gruvbox&bg_color=151515&text_color=9f9f9f&border_color=30363d"/>
 </div>
  
 <div style="display: inline_block"><br>
@@ -14,11 +14,7 @@
   <img align="center" alt="FAKNE-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="FAKNE-Node" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
   <img align="center" alt="FAKNE-Android" height="33" width="43" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-plain.svg" />
-  <img align="center" alt="FAKNE-Graph" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" />
-  <img align="center" alt="FAKNE-Docker" height="43" width="53" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
-  <img align="center" alt="FAKNE-C++" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
   <img align="center" alt="FAKNE-Python" height="33" width="43" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="FAKNE-Java" height="32" width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
   <img align="center" alt="FAKNE-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
   <img align="center" alt="FAKNE-Php" height="45" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
 </div>
