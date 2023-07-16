@@ -1,9 +1,7 @@
 ## Hi there, i'm Mário your developer !
-<div align="center">
-  <!-- <a href="https://github.com/FAKNE"> -->
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=FAKNE&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true&bg_color=151515&text_color=9f9f9f&border_color=30363d&count_private=true&hide=contribs"/>
+<div align="left">
   
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FAKNE&layout=compact&langs_count=7&theme=gruvbox&bg_color=151515&text_color=9f9f9f&border_color=30363d"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=FAKNE&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true&bg_color=151515&text_color=9f9f9f&border_color=30363d&hide=contribs"/>
   
 </div>
  
