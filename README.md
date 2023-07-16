@@ -1,7 +1,7 @@
 ## Hi there, i'm Mário your developer !
 <div align="left">
   
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=FAKNE&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true&bg_color=151515&text_color=9f9f9f&border_color=30363d&hide=contribs"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=FAKNE&show_icons=true&theme=gruvbox&include_all_commits=true&rank_icon=github&count_private=true&bg_color=151515&text_color=9f9f9f&border_color=30363d&hide=contribs"/>
   
 </div>
  
